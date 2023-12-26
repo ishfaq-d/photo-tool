@@ -9,7 +9,8 @@ const modalStyles = {
         height: '500px',
         marginLeft: '50%',
         marginTop: '20%',
-        transform: 'translate(-50%, -20%)',
+        transform: 'translate(-50%, -30%)',
+        inset: 0,
     },
     overlay: {
         background: 'rgb(0,0,0,0.5)',
